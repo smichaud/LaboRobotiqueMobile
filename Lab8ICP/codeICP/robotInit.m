@@ -2,11 +2,11 @@ clearvars
 clearvars -global
 
 % emplacement des toolbox
-addpath('../../Software/Workstation/RoombaControl')
-addpath('../../Software/Workstation/ros4mat/matlab')
+addpath('../../RoombaControl')
+addpath('../../ros4mat/matlab')
 
 % parametres du robot
-IP = '10.240.249.184';
+IP = '10.248.220.255';
 hokuyo_freq = 10;  % frequence max. du Hokuyo = 10 Hz
 polling_freq = 10;
 
