@@ -4,4 +4,4 @@
 #hg pull -u
 #rosmake ros4mat
 
-cp ros4mat.launch /home/turtlebot/ros_workspace/ros4mat/ros4mat/ros4mat.launch
+cp ros4matKinect.launch /home/turtlebot/ros_workspace/ros4mat/ros4mat/ros4mat.launch
