@@ -7,4 +7,5 @@ Pour obtenir seulement la branche désirée:
 - git clone -b brancheDesiree git@github.com:smichaud/LaboRobotiqueMobile.git
 
 Pour me rejoindre: sebastien.michaud.2@ulaval.ca
+
 Site original de ros4mat : https://code.google.com/p/ros4mat/
