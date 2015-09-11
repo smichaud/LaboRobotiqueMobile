@@ -5,3 +5,5 @@ Note: Une branche contients les éléments pour l'ordinateur distant (desktop) e
 
 Pour obtenir seulement la branche désirée:
 - git clone -b brancheDesiree git@github.com:smichaud/LaboRobotiqueMobile.git
+
+Pour me rejoindre: sebastien.michaud.2@ulaval.ca
