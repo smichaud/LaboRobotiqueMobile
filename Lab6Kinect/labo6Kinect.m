@@ -2,8 +2,8 @@
 % subscribeKinect
 
 % Loop until the figure is closed
-figure('name',sensor)
-while(findobj('type','figure','name', sensor))
+h = figure('name',sensor)
+while ishandle(h)
     image = [];
     depthMap = [];
     rgbImage = [];
